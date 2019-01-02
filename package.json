@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jlozovei/link-checker/issues"
   },
-  "homepage": "https://github.com/jlozovei/link-checker#readme"
+  "homepage": "https://github.com/jlozovei/link-checker#readme",
+  "dependencies": {
+    "crawler": "^1.2.0"
+  }
 }
